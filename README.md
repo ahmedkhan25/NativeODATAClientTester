@@ -8,6 +8,6 @@
  https://components.xamarin.com/view/modernhttpclient
  
  In general the results appear to be faster using the ModernHTTPClient code as seen here:
- (for 800 entries a gain of 4 Seconds)
+ (for 800 entries a gain of about 5 Seconds)
  
  ![screencap](http://i.imgur.com/C2a71S7.png)
