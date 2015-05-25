@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeOdataTester", "NativeOdataTester\NativeOdataTester.csproj", "{880A9985-4F75-4601-A53A-0DC5F90F4CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.Release|iPhone.Build.0 = Release|iPhone
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{880A9985-4F75-4601-A53A-0DC5F90F4CFE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
